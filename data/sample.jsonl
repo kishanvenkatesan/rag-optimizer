@@ -1,0 +1,6 @@
+{"id": 1, "query": "What is RAG?", "answer": "RAG is a method where an LLM retrieves external documents before generating an answer.", "relevant_doc_ids": [0]}
+{"id": 2, "query": "What does FAISS do?", "answer": "FAISS performs efficient similarity search on vector embeddings.", "relevant_doc_ids": [1]}
+{"id": 3, "query": "Why do we use embedding models?", "answer": "Embedding models convert text into semantic vectors.", "relevant_doc_ids": [2]}
+{"id": 4, "query": "What is chunking in RAG?", "answer": "Chunking means splitting documents into smaller parts.", "relevant_doc_ids": [3]}
+{"id": 5, "query": "What library is used for vector search?", "answer": "FAISS is a library used for similarity search.", "relevant_doc_ids": [1]}
+{"id": 6, "query": "What is a nearest neighbor search method?", "answer": "HNSW is an ANN method used in vector search libraries.", "relevant_doc_ids": [6]}

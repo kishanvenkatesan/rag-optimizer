@@ -1,0 +1,7 @@
+{"id": 0, "text": "Retrieval-Augmented Generation (RAG) is an approach where an LLM looks up relevant documents from a knowledge base before generating an answer."}
+{"id": 1, "text": "FAISS is a library developed by Meta AI for efficient similarity search and clustering of dense vectors."}
+{"id": 2, "text": "Embedding models like Sentence Transformers convert text into numerical vectors that can be compared for semantic similarity."}
+{"id": 3, "text": "Chunking refers to splitting documents into smaller segments so retrieval works better over long text."}
+{"id": 4, "text": "There are libraries for searching like Scikit-Learn's nearest neighbors and Annoy. These are not FAISS."}
+{"id": 5, "text": "Some documents mention RAG but focus on retrieval speed, while others focus on generative coherence. This causes ambiguity."}
+{"id": 6, "text": "A closely related approach to FAISS is HNSW, used for approximate nearest neighbors."}
